@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Yaucrates
-- 👀 I’m interested in math, data structures, algorithms, and machine learning.
-- 🌱 I’m currently learning the basics of javascript(for certain reasons I am unable to access anything other my school issued chromebook).
-- 💞️ I’m looking to collaborate on ...(Nothing ATM)
-- 📫 How to reach me ... (You can't, sorry.)
+- 👋 Hi, I’m Yousif Abdulhussein
+- 👀 I’m interested in math and physics, but more specifically machine learning and quantum computing.
+- 🌱 I’m currently learning anything I can such as pure mathematics, physics, computer science, and some philosophy and psychology.
+- 📫 How to reach me (You can't, sorry.)
 
 <!---
 Yaucrates/Yaucrates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
